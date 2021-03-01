@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dd74jiaqr
+  api_key: '756646565162749'
+  api_secret: 7t5jgivy_LkseEvnmRjaK532Bao
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: dd74jiaqr
+  api_key: '756646565162749'
+  api_secret: 7t5jgivy_LkseEvnmRjaK532Bao
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: dd74jiaqr
+  api_key: '756646565162749'
+  api_secret: 7t5jgivy_LkseEvnmRjaK532Bao
+  enhance_image_tag: true
+  static_file_support: false
